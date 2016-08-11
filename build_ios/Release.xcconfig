@@ -1,0 +1,10 @@
+//
+//  Release.xcconfig
+//  Unity-iPhone
+//
+//  Created by zwwx on 16/8/11.
+//
+//
+
+//:configuration = Release
+ARCHS = $(ARCHS_STANDARD)
